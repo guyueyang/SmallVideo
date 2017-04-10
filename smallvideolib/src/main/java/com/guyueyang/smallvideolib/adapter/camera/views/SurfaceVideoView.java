@@ -18,7 +18,7 @@ import android.view.SurfaceView;
 
 import java.io.IOException;
 
-import mabeijianxi.camera.util.StringUtils;
+import com.guyueyang.smallvideolib.adapter.camera.util.StringUtils;
 
 
 public class SurfaceVideoView extends SurfaceView implements Callback {

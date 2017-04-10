@@ -27,7 +27,7 @@ public class Log {
 	}
 
 	/**
-	 * Send a {@link #DEBUG} log message and log the exception.
+	 * Send a {@link #} log message and log the exception.
 	 * 
 	 * @param tag
 	 *            Used to identify the source of a log message. It usually
@@ -50,7 +50,7 @@ public class Log {
 	}
 
 	/**
-	 * Send a {@link #INFO} log message and log the exception.
+	 * Send a {@link #} log message and log the exception.
 	 * 
 	 * @param tag
 	 *            Used to identify the source of a log message. It usually
@@ -68,7 +68,7 @@ public class Log {
 	}
 
 	/**
-	 * Send an {@link #ERROR} log message.
+	 * Send an {@link #} log message.
 	 * 
 	 * @param tag
 	 *            Used to identify the source of a log message. It usually
@@ -89,7 +89,7 @@ public class Log {
 	}
 
 	/**
-	 * Send a {@link #ERROR} log message and log the exception.
+	 * Send a {@link #} log message and log the exception.
 	 * 
 	 * @param tag
 	 *            Used to identify the source of a log message. It usually

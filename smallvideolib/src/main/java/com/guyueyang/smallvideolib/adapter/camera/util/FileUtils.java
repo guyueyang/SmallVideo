@@ -281,7 +281,7 @@ public class FileUtils {
     /**
      * read file
      *
-     * @param filePath
+     * @param
      * @param charsetName The name of a supported {@link java.nio.charset.Charset
      *                    </code>charset<code>}
      * @return if file not exist, return null, else return content of file
